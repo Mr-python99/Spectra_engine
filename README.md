@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Platform](https://img.shields.io/badge/Platform-Linux-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![platform](https://omg.shields.io/badge/github-black) 
 
 ### Advanced Security Research & Intelligence Framework
 
