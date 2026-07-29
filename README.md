@@ -151,17 +151,17 @@ Version : 9.0
 
 ---
 
-## ⚠ Research Notice
+## ⚠ Noticc
 
-All payload collections, research modules, and intelligence features included in this project are provided for:
+«Notice
 
-- Educational Purposes
-- Security Research
-- Defensive Learning
-- Threat Intelligence Study
+Spectra Engine is officially tested on Linux-based environments running inside Proot Linux.
 
-Users are responsible for ensuring that all activities are conducted legally and ethically.
+Native Termux support is currently considered experimental and may behave differently depending on device architecture, Android version, Python version, and installed dependencies.
 
+Users who encounter compatibility issues are encouraged to report them through the repository issue tracker.
+
+The project is under active development, and compatibility improvements will be introduced in future releases.»
 ---
 
 ## ⚠ Disclaimer
